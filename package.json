@@ -1,0 +1,9 @@
+{
+  "name": "@dongxanhshopvn/dxstea",
+  "version": "1.0.0",
+  "description": "A special Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@dongxanhshopvn",
+  "repository": "https://github.com/dongxanhshopvn/dxstea.git",
+  "license": "MIT"
+}
